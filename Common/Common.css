@@ -94,3 +94,30 @@ body{
     background-color: var(--empty-space-color);
     color: black;
 }
+
+
+/* Product card */
+.product-card{
+    background-color: var(--color-white);
+    display: flex;
+    flex-direction: column;
+    height: 51.5rem;
+    width: 30rem;   
+    align-items: center;
+    justify-content: start;
+}
+
+.product-card-btn{
+    height: 8rem;
+    background-color: var(--empty-space-color);
+    align-self: stretch;
+    font-size: 2rem;
+}
+
+.product-card-amount{
+    font-weight:bolder;
+}
+
+.product-name{
+    font-size: 2rem;
+}
