@@ -121,3 +121,9 @@ body{
 .product-name{
     font-size: 2rem;
 }
+
+.aside-filter{
+    background-color: var(--color-white);
+    
+    border: none;
+}
